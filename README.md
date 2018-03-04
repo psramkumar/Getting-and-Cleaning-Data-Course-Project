@@ -12,10 +12,10 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 Goal | Item | Link to Item
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project/blob/master/tidyData.txt "tidyData.txt")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project/blob/master/tidyData.csv "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project "Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md "README.md")
+Cookbook | CodeBook.md |  [CodeBook Repo Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md "CodeBook.md")
+README | Readme.md |  [Readme Repo Link](https://github.com/psramkumar/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md "README.md")
 
 ## License
 
